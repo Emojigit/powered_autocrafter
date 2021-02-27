@@ -1,0 +1,20 @@
+# textdomain: powered_autocrafter
+
+# License: CC-by-SA 4.0
+# Author: Louis Royer, Cato Yiu
+
+## digilines interfacing
+Channel=
+
+## init
+Allow splitting incoming stacks from tubes=
+
+## autocrafter
+Unknown item=
+unconfigured Powered Autocrafter: unknown recipe=
+unconfigured Powered Autocrafter=
+'@1' Powered Autocrafter (@2)=
+Save=
+paused '@1' Powered Autocrafter=
+Powered Autocrafter=
+
